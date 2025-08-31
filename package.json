@@ -15,7 +15,7 @@
     "styled-components": "^5.3.11",
     "typescript": "^4.9.5"
   },
-  "homepage": "https://github.com/ImAntiart/Timer-countdown",
+"homepage": "https://imantiart.github.io/Timer-countdown",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
